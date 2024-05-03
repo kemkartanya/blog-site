@@ -19,38 +19,14 @@ Clone the project
 Go to the project directory
 
 frontend 
-
 ```bash
   cd client
-```
-
-Install dependencies
-
-```bash
   yarn install
-```
-
-Start the server
-
-```bash
   yarn start
 ```
-
 backend 
-
 ```bash
   cd api
-```
-
-Install dependencies
-
-```bash
   yarn install
-```
-
-Start the server
-
-```bash
   npx nodemon index.js
 ```
-
