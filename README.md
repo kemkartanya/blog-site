@@ -4,8 +4,8 @@ Blogging site with functionalities of creating, updating and reading blogs
 
 ## Tech Stack
 
-Frontend: Reactjs, Css
-Backend: Nodejs, Expressjs
+Frontend: Reactjs, Css <br>
+Backend: Nodejs, Expressjs <br>
 Database: MongoDB
 
 ## Run Locally
